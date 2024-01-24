@@ -16,7 +16,7 @@
     * Go?/
 
 ### Free Education project
-    cute and welcoming frontend with no logic screen to maximize userbase from less fortunate regions, converging free sources such as freecodeacademy and youtube tutorials on different categories such as coding and business etc to enable all to educate themselves. potential login bonus to save/favourite certain sources and articles.
+    cute and welcoming frontend with no login screen to maximize userbase from less fortunate regions, converging free sources such as freecodeacademy and youtube tutorials on different categories such as coding and business etc to enable all to educate themselves. potential login bonus to save/favourite certain sources and articles.
 
     * Android
     * Education API?/
@@ -32,13 +32,3 @@
     * Google login api
     * Firebase
     * Go?/
-
-### Abuse Area Avoidance project
-    Use new abusive zones API to showcase red zones within google maps showcasing potential areas to avoid + be more careful within if you are visiting/ new to the area/ trying to be careful in high traffic zones etc. Add facts and education within zones to help people learn how to better protect themselves within red zones of abuse.
-
-    * Abusive Experience API
-    * Google Maps
-    * Android
-    * Google login API
-    * Firebase
-    Go?/
